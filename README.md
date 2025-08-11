@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaeldxdy
 - 👀 I’m interested in Technology and Self-development
-- 🌱 I’m currently learning Web Development, Database and English
+- 🌱 I’m currently learning SQL Development and English
 - 📫 How to reach me follow @rafaeldxdy on any social media
 
 <!---
